@@ -3,7 +3,6 @@
 
 
 - 👦He/Him.
-- ☠️Currently watching OnePiece
 - Text editor: Visual Studio Code.
 
 [![Languages I use most.][stats]][github]
