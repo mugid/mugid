@@ -4,8 +4,6 @@
 - 👦He/Him.
 - Text editor: Visual Studio Code.
 
-[![Languages I use most.][stats]][github]
-
 ### My contacts
 - E-mail: bekslambek22@gmail.com
 
