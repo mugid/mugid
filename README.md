@@ -1,9 +1,9 @@
 ### Hi there, call me Bek 👋
 👒I will become the Programming King👨🏽‍💻 
 
-- 👦He/Him.
+- 👦 He/Him.
 - Text editor: Visual Studio Code.
-- Skills: Next.js, React, MongoDB, Chakra-UI
+- Skills: Next.js, React, MongoDB, Chakra-UI, Prisma
 
 ### My contacts
 - E-mail: bekslambek22@gmail.com
