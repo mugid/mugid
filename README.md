@@ -9,10 +9,7 @@
 - E-mail: bekslambek22@gmail.com
 - Instagram: https://instagram.com/sbek22
 
-
-[stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=MugiD&theme=onedark&layout=compact
-[github]: https://github.com/MugiD
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugiD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MugiD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Bek's GitHub stats](https://github-readme-stats.vercel.app/api?username=MugiD&count_private=true&bg_color=fefefe&title_color=121212&text_color=353535&show_icons=true)
+![Dosik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dositan&count_private=true&bg_color=fefefe&title_color=121212&text_color=353535&show_icons=true)
