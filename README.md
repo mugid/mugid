@@ -6,12 +6,10 @@ I love creating software asf
 - 🤹‍♂️ Skills: Next.js, React
 - 🔎 Tools: MongoDB, Supabase, Vercel
 - 🎨 CSS Frameworks: TailwindCSS, Chakra-UI
+- 👨‍💻 I'm currently learning Flutter
 
-### I also had experience with: 
+### I also have a little bit of experience with: 
 TypeScript, Material-UI, Express.js
-
-
-👨‍💻 I'm currently learning Flutter
 
 ### My contacts
 - E-mail: bekslambek22@gmail.com
