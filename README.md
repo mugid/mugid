@@ -7,6 +7,9 @@ I love creating software asf
 - 🔎 Tools: MongoDB, Supabase, Vercel
 - 🎨 CSS Frameworks: TailwindCSS, Chakra-UI
 
+### I also had experience with: 
+TypeScript, Material-UI, Express.js
+
 
 👨‍💻 I'm currently learning Flutter
 
