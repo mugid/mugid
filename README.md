@@ -3,8 +3,10 @@ I love creating software asf
 
 - 👦 He/Him.
 - 💻 Text editor: Visual Studio Code.
-- 🤹‍♂️ Skills: Next.js, React, MongoDB
-- 📿  CSS Frameworks: TailwindCSS, Chakra-UI
+- 🤹‍♂️ Skills: Next.js, React
+- 🔎 Tools: MongoDB, Supabase, Vercel
+- 🎨 CSS Frameworks: TailwindCSS, Chakra-UI
+
 
 👨‍💻 I'm currently learning Flutter
 
