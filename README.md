@@ -1,13 +1,16 @@
 ### Hi there, call me Bek 👋
-👒I will become the Programming King👨🏽‍💻 
+I love creating software asf
 
-- 👦He/Him.
-- Text editor: Visual Studio Code.
-- Skills: Next.js, React, MongoDB, Chakra-UI
+- 👦 He/Him.
+- 💻 Text editor: Visual Studio Code.
+- 🤹‍♂️ Skills: Next.js, React, MongoDB
+- 📿  CSS Frameworks: TailwindCSS, Chakra-UI
+
+👨‍💻 I'm currently learning Flutter
 
 ### My contacts
 - E-mail: bekslambek22@gmail.com
-- Instagram: https://instagram.com/sbek22
+- Twitter: https://twitter.com/sbek22_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MugiD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
