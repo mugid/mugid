@@ -11,9 +11,8 @@ I love creating software asf
 ### I also have a little bit of experience with: 
 TypeScript, Express.js
 
-### My contacts
-- E-mail: bekslambek22@gmail.com
-- Twitter: https://twitter.com/sbek22_
+### How to reach me?
+https://links-mugid.vercel.app
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MugiD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
