@@ -5,11 +5,11 @@ I love creating software asf
 - 💻 Text editor: Visual Studio Code.
 - 🤹‍♂️ Skills: Next.js, React
 - 🔎 Tools: MongoDB, Supabase, Vercel
-- 🎨 CSS Frameworks: TailwindCSS, Chakra-UI
+- 🎨 CSS Frameworks: TailwindCSS, Chakra-UI, Material-UI
 - 👨‍💻 I'm currently learning Flutter
 
 ### I also have a little bit of experience with: 
-TypeScript, Material-UI, Express.js
+TypeScript, Express.js
 
 ### My contacts
 - E-mail: bekslambek22@gmail.com
