@@ -8,8 +8,8 @@ I love creating software asf
 - 🎨 CSS Frameworks: TailwindCSS, Chakra-UI, Material-UI
 - 👨‍💻 I'm currently learning Flutter
 
-### I also have a little bit of experience with: 
-TypeScript, Express.js
+### I have a little bit of experience with: 
+TypeScript, Express.js, Prisma 
 
 ### How to reach me?
 https://links-mugid.vercel.app
