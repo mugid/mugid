@@ -1,5 +1,4 @@
 ![Header](./github-header-image-name.png)
-I love creating software asf
 
 - 👦 He/Him.
 - 💻 Text editor: Visual Studio Code.
