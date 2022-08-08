@@ -49,6 +49,6 @@ height="40"/>&nbsp;
 
 ### 🔗 Links :
 https://links-mugid.vercel.app
-<a href="https://linkedin.com/in/sbek22><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sbek22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
