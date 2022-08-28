@@ -45,7 +45,7 @@ height="40"/>&nbsp;
 ![Bek's GitHub stats](https://github-readme-stats.vercel.app/api?username=MugiD&theme=gotham&show_icons=true)
 
 ### 🔗 Links :
-https://links.sbek22.xyz <br/>
+https://sbek22.xyz <br/>
 
 <a href="https://twitter.com/sbek22_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sbek22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
