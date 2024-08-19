@@ -1,4 +1,5 @@
-![Header]Hi! I'm Bek, a web-developer and web-designer
+# Hi! I'm Bek
+## web-developer, web-designer
 
 ---
 
@@ -20,8 +21,6 @@
 ### 🧨 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MugiD&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-![Bek's GitHub stats](https://github-readme-stats.vercel.app/api?username=MugiD&theme=gotham&show_icons=true)
 
 ### 🔗 Links :
 <a href="https://sbek22.xyz"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
