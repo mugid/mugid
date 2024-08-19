@@ -1,13 +1,4 @@
-![Header](./github-header.png)
-
-
-### 🤵 About Me :
-
-I'm an enthusiastic student from Kazakhstan 🔆
-
-- 👦 He/Him.
-- 💻 Loves programming
-- 👒 One Piece Fan
+![Header]Hi! I'm Bek, a web-developer and web-designer
 
 ---
 
